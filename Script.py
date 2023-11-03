@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 File Name : {file_name}</b>
-<b>🔘 File Size : {file_name}</b>
+<b>🔘 File Size : {file_size}</b>
 
 ╭─── • ❰ @gtxPrime ❱ • ────➤
 ┣ ▫️ @ZCipher
